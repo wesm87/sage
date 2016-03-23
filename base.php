@@ -19,11 +19,11 @@ use Roots\Sage\Wrapper;
 				<?php
 				printf(
 					esc_html__(
-						'You are using an $s%1outdated$s%2 browser. Please $s%3upgrade your browser$s%4 to improve your experience.',
+						'You are using an %1$s outdated %2$s browser. Please %3$s upgrade your browser %4$s to improve your experience.',
 						'sage'
 					),
 					'<strong>',
-					'</strong>'
+					'</strong>',
 					'<a href="http://browsehappy.com/">',
 					'</a>'
 				);
