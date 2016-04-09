@@ -2,7 +2,7 @@
 /**
  * Base theme template.
  *
- * @package Sage/Bootstrap
+ * @package BLR_Base_Theme/Bootstrap
  */
 
 use Roots\Sage\Setup;

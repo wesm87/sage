@@ -2,7 +2,7 @@
 /**
  * Entry content template for single posts, pages, and custom post type entries.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 ?>

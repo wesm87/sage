@@ -2,7 +2,7 @@
 /**
  * Entry metadata template.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 $post_time  = get_post_time( 'c', true );

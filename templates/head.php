@@ -2,7 +2,7 @@
 /**
  * HTML <head> section template.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 ?>

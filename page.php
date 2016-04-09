@@ -2,7 +2,7 @@
 /**
  * Single page template.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 while ( have_posts() ) : the_post(); ?>

@@ -9,7 +9,7 @@
  *
  * @link https://github.com/roots/sage/pull/1042
  *
- * @package Sage/Includes
+ * @package BLR_Base_Theme/Includes
  */
 
 $sage_includes = [

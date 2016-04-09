@@ -2,7 +2,7 @@
 /**
  * Template for displaying search results.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 get_template_part( 'templates/page', 'header' );

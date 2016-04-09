@@ -2,7 +2,7 @@
 /**
  * Default header template.
  *
- * @package Sage/Templates
+ * @package BLR_Base_Theme/Templates
  */
 
 ?>
