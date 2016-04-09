@@ -2,7 +2,7 @@
 /**
  * Template for the 404 page.
  *
- * @package BLR_Base_Theme/Templates
+ * @package Sage/Templates
  */
 
 get_template_part( 'templates/page', 'header' );

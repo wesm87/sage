@@ -2,7 +2,7 @@
 /**
  * Page header template.
  *
- * @package BLR_Base_Theme/Templates
+ * @package Sage/Templates
  */
 
 use Roots\Sage\Titles;

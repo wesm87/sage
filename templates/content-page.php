@@ -2,7 +2,7 @@
 /**
  * Page content template.
  *
- * @package BLR_Base_Theme/Templates
+ * @package Sage/Templates
  */
 
 the_content();

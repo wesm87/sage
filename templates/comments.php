@@ -2,7 +2,7 @@
 /**
  * Comments template.
  *
- * @package BLR_Base_Theme/Templates
+ * @package Sage/Templates
  */
 
 if ( post_password_required() ) {

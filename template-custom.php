@@ -2,7 +2,7 @@
 /**
  * Template Name: Custom Template
  *
- * @package BLR_Base_Theme/templates
+ * @package Sage/templates
  */
 
 ?>

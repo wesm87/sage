@@ -1,28 +1,27 @@
 {
-  "name": "decisionary/blr-base-theme",
+  "name": "roots/sage",
   "type": "wordpress-theme",
-  "version": "0.1.0",
   "license": "MIT",
-  "description": "A base theme for BLR WordPress sites. Based on Sage by Roots.",
-  "homepage": "https://github.com/Decisionary/blr-base-theme",
+  "description": "The best WordPress starter theme with a modern front-end development workflow. Based on HTML5 Boilerplate, gulp, Bower, and Bootstrap.",
+  "homepage": "https://roots.io/sage/",
   "authors": [
     {
-      "name": "Wes Moberly",
-      "email": "wes.moberly@decisionary.com",
-      "homepage": "https://github.com/wesm87"
+      "name": "Ben Word",
+      "email": "ben@benword.com",
+      "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Scott Walkinshaw",
+      "email": "scott.walkinshaw@gmail.com",
+      "homepage": "https://github.com/swalkinshaw"
     }
   ],
   "keywords": [
-    "WordPress",
-    "development",
-    "starter",
-    "base",
-    "theme",
-    "blr"
+    "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/Decisionary/blr-base-theme/issues",
-    "wiki": "https://github.com/Decisionary/blr-base-theme/wiki"
+    "issues": "https://github.com/roots/sage/issues",
+    "forum": "https://discourse.roots.io/"
   },
   "require": {
     "php": ">=5.4.0",

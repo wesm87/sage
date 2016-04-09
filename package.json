@@ -1,20 +1,13 @@
 {
-  "name": "@decisionary/blr-base-theme",
-  "version": "0.1.0",
+  "name": "sage",
+  "version": "8.4.2",
   "private": true,
-  "description": "A base theme for BLR WordPress sites. Based on Sage by Roots.",
-  "homepage": "https://github.com/Decisionary/blr-base-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Decisionary/blr-base-theme.git"
+    "url": "https://github.com/wesm87/sage.git"
   },
   "bugs": {
-    "url": "https://github.com/Decisionary/blr-base-theme/issues"
-  },
-  "author": {
-    "name": "Wes Moberly",
-    "email": "wes.moberly@decisionarytech.com",
-    "url": "https://github.com/wesm87"
+    "url": "https://github.com/roots/sage/issues"
   },
   "licenses": [
     {
@@ -22,20 +15,11 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "keywords": [
-    "WordPress",
-    "development",
-    "starter",
-    "base",
-    "theme",
-    "blr"
-  ],
-  "main": "gulpfile.babel.js",
-  "engines": {
-    "node": "^5.10.0"
-  },
   "scripts": {
     "build": "gulp build"
+  },
+  "engines": {
+    "node": "^5.10.0"
   },
   "devDependencies": {
     "babel-core": "^6.3.26",
